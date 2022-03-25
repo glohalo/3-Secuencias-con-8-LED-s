@@ -18,3 +18,5 @@ El sistema está programado en "Pull Down".
 ## Patrones intermitentes recreados
 
 Patron 1. 
+![Patron 1-](https://user-images.githubusercontent.com/28090029/160057554-b6415fbf-083f-4faf-a989-db0c5b35141f.png)
+

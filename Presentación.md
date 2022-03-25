@@ -15,4 +15,6 @@ El sistema está programado en "Pull Down".
 * Protoboard
 * Placa Arduino uno
 
+## Patrones intermitentes recreados
 
+Patron 1. 
